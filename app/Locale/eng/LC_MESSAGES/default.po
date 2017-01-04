@@ -1,0 +1,191 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Matcha Front\n"
+"POT-Creation-Date: 2016-10-19 14:10+0900\n"
+"PO-Revision-Date: 2016-11-16 09:32+0700\n"
+"Language-Team: Matcha\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__d;__dn:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Last-Translator: \n"
+"Language: vi\n"
+"X-Poedit-SearchPath-0: ./View\n"
+
+#: Model/Calendar.php:16;32;39 Model/Event.php:20;27
+msgid "Email"
+msgstr "Eメール"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "School"
+msgstr "学校名"
+
+
+msgid "School name"
+msgstr "学校名"
+
+msgid "Target image"
+msgstr "読込イメージ"
+
+msgid "Target name"
+msgstr "タイトル"
+
+msgid "Target ID"
+msgstr "対象ID"
+
+msgid "Rule"
+msgstr "権限"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Media type"
+msgstr "Media type"
+
+msgid "Media output"
+msgstr "ARファイル"
+
+msgid "Student name"
+msgstr "Student name"
+
+msgid "Upload to cloud"
+msgstr "Upload to cloud"
+
+msgid "List"
+msgstr "一覧"
+
+msgid "AR management"
+msgstr "AR管理"
+
+
+msgid "Admin management"
+msgstr "Admin management"
+
+msgid "Video"
+msgstr "ビデオ"
+
+msgid "Image"
+msgstr "画像"
+
+msgid "Status"
+msgstr "ステータス"
+
+msgid "Approve"
+msgstr "承認"
+
+msgid "Add"
+msgstr "追加"
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "User management"
+msgstr "ユーザー管理"
+
+msgid "Administrator"
+msgstr "管理者"
+
+msgid "Active"
+msgstr "有効にする"
+
+msgid "Inactive"
+msgstr "無効にする"
+
+msgid "Type"
+msgstr "種類"
+
+msgid "Fullname"
+msgstr "氏名"
+
+msgid "Approve"
+msgstr "承認"
+
+msgid "Not approve"
+msgstr "未承認"
+
+msgid "Status"
+msgstr "ステータス"
+
+msgid "Password"
+msgstr "パスワード"
+
+msgid "Welcome!"
+msgstr "ようこそ!"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "Date of birdth"
+msgstr "生年月日"
+
+msgid "Password"
+msgstr "パスワード"
+
+msgid "Upload success"
+msgstr "アップロード成功"
+
+msgid "Success"
+msgstr "成功"
+
+msgid "Target name exist"
+msgstr "名前が既に存在します。"
+
+msgid "Upload faild"
+msgstr "アップロードに失敗しました。"
+
+msgid "Cloud: Please wait a few minutes"
+msgstr "Cloud : 少々お待ち下さい。"
+
+msgid "Empty data"
+msgstr "データが空です。"
+
+msgid "Not found item"
+msgstr "ファイルが見つかりません。"
+
+msgid "Username not exist"
+msgstr "ユーザ名が存在していません。"
+
+msgid "Cannot delete current user"
+msgstr "現在のユーザが削除出来ません。"
+
+msgid "Not permission to access"
+msgstr "アクセスが許可出来ません"
+
+msgid "Email or password is incorrect"
+msgstr "メール又はパスワードが違います。"
+
+msgid "Not found item"
+msgstr "ファイルが見つかりません。"
+
+msgid "Delete success"
+msgstr "削除が成功しました。"
+
+msgid "Empty data"
+msgstr "データが空です。"
+
+msgid "Configuration"
+msgstr "コンフィギュレーション"
+
+
+
+
+
+
+
+
+
