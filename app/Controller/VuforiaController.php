@@ -1,10 +1,4 @@
 <?php
-
-// App::uses('AppController', 'Controller');
-
-
-
-
 /**
  * Home Controller
  *
