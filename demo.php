@@ -1,6 +1,3 @@
 <?php  
-echo "hello world";
-
-
-echo "Sua file";
+  echo "hoc git";
 ?>
